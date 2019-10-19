@@ -23,7 +23,6 @@ ul {
   
   li {
     float: right;
-     display: inline-block;
     text-align: center;
     padding: 14px 10px;
     text-decoration: none;
@@ -42,5 +41,18 @@ ul {
 text-align: center;
 vertical-align: middle;
 line-height: 25px
+
+}
+.lupa{
+  position:absolute;
+  top:252px;
+  left:364px;
+
+}
+.microphone{
+  position:absolute;
+  top:250px;
+  left:890px;
+
 
 }
