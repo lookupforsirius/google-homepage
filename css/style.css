@@ -31,3 +31,16 @@ ul {
   li p {
     font-size: 13px;
   }
+  .dot {
+    width:32px;
+ height: 25px;
+
+ background-color: #0288d1;
+ border-radius: 90%;
+ display: inline-block;
+ color:white;
+text-align: center;
+vertical-align: middle;
+line-height: 25px
+
+}
