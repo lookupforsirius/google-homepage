@@ -89,3 +89,16 @@ a:hover {
   top:33%;
   left:32.5%;
 }
+h3{
+  color: #1a0dab;
+        margin-bottom: 0px;
+
+
+}
+.link{
+  color: #006621;
+   padding-right: 100%;
+}
+.two-cols{
+  width:45%;float:left;margin-right: 2%;
+}
