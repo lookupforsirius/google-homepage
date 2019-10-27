@@ -97,8 +97,13 @@ h3{
 }
 .link{
   color: #006621;
-   padding-right: 100%;
+
 }
 .two-cols{
   width:45%;float:left;margin-right: 2%;
+}
+.csb{
+  display: block;
+      height: 40px;
+         
 }
